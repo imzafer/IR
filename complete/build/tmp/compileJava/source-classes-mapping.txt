@@ -1,0 +1,10 @@
+com/example/restservice/GreetingController.java
+ com.example.restservice.GreetingController
+com/example/restservice/Greeting.java
+ com.example.restservice.Greeting
+com/example/restservice/RestServiceApplication.java
+ com.example.restservice.RestServiceApplication
+com/example/restservice/FifthTask.java
+ com.example.restservice.FifthTask
+com/example/restservice/FifthTaskController.java
+ com.example.restservice.FifthTaskController
